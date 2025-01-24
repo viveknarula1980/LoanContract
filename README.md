@@ -55,3 +55,8 @@ Prerequisites
 .Repay Loan: Borrowers can input the amount they wish to repay, and the frontend will interact with the repayLoan function.
 .View Loan Details: Borrowers can check their loan details, including the principal, interest rate, due amount, and amount paid.
 .Check Outstanding Balance: Borrowers can view how much is left to repay
+
+
+## Contributing:
+
+Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
