@@ -1,4 +1,4 @@
-    LoanContract
+                                              LoanContract
     
 This is a  Solidity-based smart contract for issuing and repaying loans. It allows an owner to issue loans with an interest rate, track the amount due, and handle repayments from borrowers. The contract also allows borrowers to view their loan details and outstanding balance.
 
