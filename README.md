@@ -56,6 +56,8 @@ Prerequisites
 .View Loan Details: Borrowers can check their loan details, including the principal, interest rate, due amount, and amount paid.
 .Check Outstanding Balance: Borrowers can view how much is left to repay
 
+clone the repo - git repo https://github.com/viveknarula1980/LoanContract.git
+
 
 ## Contributing:
 
