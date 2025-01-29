@@ -14,6 +14,9 @@ contract LoanContract {
     mapping(address => Loan) public loans;
     address public owner;
 
+
+
+
     event LoanIssued(address borrower, uint256 amount, uint256 interestRate, uint256 dueAmount);
     event LoanRepaid(address borrower, uint256 amountPaid, uint256 remainingAmount);
 
