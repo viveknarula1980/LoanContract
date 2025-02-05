@@ -8,7 +8,7 @@ Features
 .View Loan Details: Borrowers can view the details of their loan, including the principal amount, interest rate, total due amount, and amount paid so far.
 .Outstanding Balance: Borrowers can check their remaining balance to repay.
 
-Smart Contract Overview
+Smart Contract Overview 
 
 Loan Struct
 
