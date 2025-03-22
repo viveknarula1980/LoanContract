@@ -3,7 +3,7 @@ import { ethers } from 'ethers';  // Import ethers if using npm or bundler
 let simpleStorage;
 let provider;
 let signer;
-
+ 
 const connectButton = document.getElementById("connectButton");
 const setValueButton = document.getElementById("setValueButton");
 const getValueButton = document.getElementById("getValueButton");
